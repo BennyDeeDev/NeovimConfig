@@ -6,3 +6,7 @@ debug
 foo.*
 *.log
 data
+
+# Hide Dracula Pro for obvious reason
+colors
+autoload
