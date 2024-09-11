@@ -1,4 +1,4 @@
-# 💤 My LazyVim Configuration
+# My Neovim Configuration
 
 This is my way of using [Neovim](https://github.com/neovim/neovim), I use [LazyVim](https://github.com/LazyVim/LazyVim) as a starter.
 
