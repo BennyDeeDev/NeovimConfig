@@ -12,3 +12,8 @@ This is my way of using [Neovim](https://github.com/neovim/neovim), I use [LazyV
 ## Helpful Links
 
 - https://stackoverflow.com/questions/9164405/vim-surround-inserts-extra-space-around-the-word
+
+## Customization
+
+- disabled nvim-cmp in `disabled.lua`
+- using theme catppuccin in `colorscheme.lua` 
