@@ -12,6 +12,7 @@ This is my way of using [Neovim](https://github.com/neovim/neovim), I use [LazyV
 ## Helpful Links
 
 - https://stackoverflow.com/questions/9164405/vim-surround-inserts-extra-space-around-the-word
+- https://www.reddit.com/r/neovim/comments/13pr3nn/how_to_switch_focus_between_the_terminal_buffer/
 
 ## Customization
 
