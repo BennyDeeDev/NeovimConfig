@@ -1,14 +1,22 @@
 # My Neovim Configuration
 
-This is my way of using [Neovim](https://github.com/neovim/neovim), I use [LazyVim](https://github.com/LazyVim/LazyVim) as a starter.
+This is my way of using [Neovim](https://github.com/neovim/neovim), I use
+[LazyVim](https://github.com/LazyVim/LazyVim) as a starter.
 
 ## Requirements
 
-- GUI Terminal, I use [iTerm2](https://github.com/gnachman/iTerm2) but might migrate to [WezTerm](https://github.com/wez/wezterm)
-- [LazyGit](https://github.com/jesseduffield/lazygit) installed, `brew install lazygit`
-- [Nerdfont](https://www.nerdfonts.com/font-downloads) installed, I use [Fira Code](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/FiraCode.zip)
-- [Telescope](https://github.com/nvim-telescope/telescope.nvim) needs [FD](https://github.com/sharkdp/fd) and [RipGrep](https://github.com/BurntSushi/ripgrep) installed, both can be installed by `brew`
-- `Rust` and `Node` installed, for Rust `brew install rust`, for Node I use `nvm` and need to run `nvm alias default node`
+- GUI Terminal, I use [iTerm2](https://github.com/gnachman/iTerm2) but might
+  migrate to [WezTerm](https://github.com/wez/wezterm)
+- [LazyGit](https://github.com/jesseduffield/lazygit) installed,
+  `brew install lazygit`
+- [Nerdfont](https://www.nerdfonts.com/font-downloads) installed, I use
+  [Fira Code](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/FiraCode.zip)
+- [Telescope](https://github.com/nvim-telescope/telescope.nvim) needs
+  [FD](https://github.com/sharkdp/fd) and
+  [RipGrep](https://github.com/BurntSushi/ripgrep) installed, both can be
+  installed by `brew`
+- `Rust` and `Node` installed, for Rust `brew install rust`, for Node I use
+  `nvm` and need to run `nvm alias default node`
 
 ## Helpful Links
 
@@ -19,7 +27,8 @@ This is my way of using [Neovim](https://github.com/neovim/neovim), I use [LazyV
 ## Customization
 
 - disabled nvim-cmp in `disabled.lua`
-- using theme `dracula_pro_van_helsing` in `colorscheme.lua`, this is custom and needs local `colors` & `autoload` folders
+- using theme `dracula_pro_van_helsing` in `colorscheme.lua`, this is custom and
+  needs local `colors` & `autoload` folders
 - show dot and gitignored files in `neo-tree`
 - installed `overseer` to run `tasks.json`
 
