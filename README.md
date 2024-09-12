@@ -20,6 +20,7 @@ This is my way of using [Neovim](https://github.com/neovim/neovim), I use [LazyV
 
 - disabled nvim-cmp in `disabled.lua`
 - using theme `dracula_pro_van_helsing` in `colorscheme.lua`, this is custom and needs local `colors` & `autoload` folders
+- show dot and gitignored files in `neo-tree`
 
 ## Improvements
 
