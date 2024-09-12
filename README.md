@@ -22,7 +22,7 @@ This is my way of using [Neovim](https://github.com/neovim/neovim), I use [LazyV
 - using theme `dracula_pro_van_helsing` in `colorscheme.lua`, this is custom and needs local `colors` & `autoload` folders
 - show dot and gitignored files in `neo-tree`
 
-## Improvements
+## Future Improvements
 
 - default to `catppuccin` colorscheme when `dracula_pro` folder is not present
 - bring in overseer to run tasks
