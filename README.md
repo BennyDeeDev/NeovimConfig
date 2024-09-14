@@ -23,6 +23,7 @@ This is my way of using [Neovim](https://github.com/neovim/neovim), I use
 - <https://stackoverflow.com/questions/9164405/vim-surround-inserts-extra-space-around-the-word>
 - <https://www.reddit.com/r/neovim/comments/13pr3nn/how_to_switch_focus_between_the_terminal_buffer>
 - <https://vi.stackexchange.com/questions/39247/how-to-integrate-an-own-vim-color-scheme-into-neovim>
+- <https://github.com/iamcco/markdown-preview.nvim/issues/637>
 
 ## Customization
 
