@@ -8,15 +8,14 @@ This is my way of using [Neovim](https://github.com/neovim/neovim), I use
 - GUI Terminal, I use [iTerm2](https://github.com/gnachman/iTerm2) but might
   migrate to [WezTerm](https://github.com/wez/wezterm)
 - [LazyGit](https://github.com/jesseduffield/lazygit) installed,
-  `brew install lazygit`
 - [Nerdfont](https://www.nerdfonts.com/font-downloads) installed, I use
   [Fira Code](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/FiraCode.zip)
 - [Telescope](https://github.com/nvim-telescope/telescope.nvim) needs
   [FD](https://github.com/sharkdp/fd) and
   [RipGrep](https://github.com/BurntSushi/ripgrep) installed, both can be
   installed by `brew`
-- `Rust` and `Node` installed, for Rust `brew install rust`, for Node I use
-  `nvm` and need to run `nvm alias default node`
+- `Rust` and `Node` installed `brew install node rust`
+- `Prettier` installed `npm i -g prettier`
 
 ## Helpful Links
 
