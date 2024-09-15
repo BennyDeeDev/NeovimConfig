@@ -14,8 +14,13 @@ This is my way of using [Neovim](https://github.com/neovim/neovim), I use
   [FD](https://github.com/sharkdp/fd) and
   [RipGrep](https://github.com/BurntSushi/ripgrep) installed, both can be
   installed by `brew`
-- `Rust` and `Node` installed `brew install node rust`
-- `Prettier` installed `npm i -g prettier`
+- `Rust`, `Node`, `Prettier` and `Eslint` installed
+  `brew install node rust prettier eslint`
+
+## Fixes
+
+- Markdown Preview doesn't work by default, run
+  `~/.local/share/nvim/lazy/markdown-preview.nvim/app/install.sh`
 
 ## Helpful Links
 
