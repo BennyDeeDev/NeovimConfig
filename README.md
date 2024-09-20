@@ -16,6 +16,8 @@ This is my way of using [Neovim](https://github.com/neovim/neovim), I use
   installed by `brew`
 - `Rust`, `Node`, `Prettier` and `Eslint` installed
   `brew install node rust prettier eslint`
+- [Dracula Pro](https://draculatheme.com/pro) needs to be
+  [locally installed](https://benjaminderksen.com/blog/customizing-neovim-colorscheme/)
 
 ## Fixes
 
