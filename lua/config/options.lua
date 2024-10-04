@@ -4,6 +4,9 @@
 
 vim.opt.scrolloff = 16
 
+vim.o.title = true
+vim.o.titlestring = vim.fn.fnamemodify(vim.fn.getcwd(), ":t")
+
 if vim.g.neovide then
   vim.g.neovide_position_animation_length = 0
   vim.g.neovide_cursor_animation_length = 0.00
